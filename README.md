@@ -51,17 +51,21 @@ First of all let's understand some concept about Jenkins :
     - Run in detached mode (-d) => run container in background.
     - Bind named volume => presist data of jenkins.
 
-* Finally :
+---
 
-* Open port 8080 in your browser and enter the password appears when running the previous command.
-* Start installing recommended plugins.
-* Create your first item and try to log the docker and docker-compose versions.
+- Finally :
 
-* References :
+- Open port 8080 in your browser and enter the password appears when running the previous command.
+- Start installing recommended plugins.
+- Create your first item and try to log the docker and docker-compose versions.
 
-- https://hackmamba.io/blog/2022/04/running-docker-in-a-jenkins-container/
+---
+
+- References :
+
+* https://hackmamba.io/blog/2022/04/running-docker-in-a-jenkins-container/
 
 -- You can find many commands on the official documentation : https://docs.docker.com/engine/reference/commandline/docker/ .
 
-Thanks
+Thanks,
 Islam Baidaq
